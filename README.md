@@ -12,3 +12,5 @@ The following table contains all the possible combinations for 2 male and 2 fema
 |    **F**emale     |    **M**ale         |    **M**ale      |    **F**emale    | (**F**-**M**-**M**-**F**) |
 |    **F**emale     |    **M**ale         |    **F**emale    |    **M**ale      | (**F**-**M**-**F**-**M**) |
 |    **F**emale     |    **F**emale       |    **M**ale      |    **M**ale      | (**F**-**F**-**M**-**M**) |
+
+One possibility for working out the best possible combination for a team is to substitute the swimmers' times in the matrix above and tally them up.
