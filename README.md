@@ -24,3 +24,4 @@ One possibility for working out the best possible combination for a team is to s
 | 00:57.33      | 00:56.88        | 00:55.48     | 00:46.86     | **03:36.55** | (F-M-F-M) | 
 | 00:57.33      | 01:04.13        | 00:49.95     | 00:46.86     | 03:38.27     | (F-F-M-M) |
 
+The cumulative times above and analysis of more realistic situations show that the best 3 combinations for this race are: M-M-F-F, F-M-M-F, and F-M-F-M.
