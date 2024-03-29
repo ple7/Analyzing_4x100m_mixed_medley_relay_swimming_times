@@ -25,3 +25,5 @@ One possibility for working out the best possible combination for a team is to s
 | 00:57.33      | 01:04.13        | 00:49.95     | 00:46.86     | 03:38.27     | (F-F-M-M) |
 
 The cumulative times above and analysis of more realistic situations show that the best 3 combinations for this race are: M-M-F-F, F-M-M-F, and F-M-F-M.
+
+A tally of the medals won for this race in the last 6 major international meets reveal that the best two combinations, by far, are: M-M-F-F, followed by F-M-M-F.
